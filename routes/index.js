@@ -10,5 +10,4 @@ router.post("/sendInfo",SendInfoController)
 
 
 
-
 export default router;
